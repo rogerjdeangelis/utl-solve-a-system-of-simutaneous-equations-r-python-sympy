@@ -32,7 +32,8 @@ Solve a system of simutaneous equations r python sympy
 
             eq1=log(x) + log(y) - log(5);
             eq2=(log(x) + 2 * log(y))/2 - log(10);
-
+            can be solved manually
+            
          3. R numerical analysis (using 1st solution)
 
             1+x**2*y**2-x**2-y**2
